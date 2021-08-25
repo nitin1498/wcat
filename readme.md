@@ -16,7 +16,5 @@
 |10.|-h or --help|display help to decide which flag to use for which above operation|
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 >Note : all above is used to print the content after applying above flags thos does not affects file
