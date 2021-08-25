@@ -148,5 +148,5 @@ function showHelp() {
     console.log('-rsc,      removes all special characters');
     console.log('-s,        add numbering to each line');
     console.log('-rel,      removes extra lines ie more than 1 line');
-    console.log('-sn,       all numbering to line who is not empty');
+    console.log('-sn,       add numbering to line who is not empty');
 }
