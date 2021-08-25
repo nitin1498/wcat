@@ -1,0 +1,19 @@
+{
+  "name": "03-wcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "bin": {
+    "wcat": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "wcat": "node index.js"
+  },
+  "author": "nitin mokashi",
+  "license": "ISC"
+}
