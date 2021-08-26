@@ -17,4 +17,4 @@
 
 <p>&nbsp;</p>
 
->Note : all above is used to print the content after applying above flags thos does not affects file
+>Note : all above options are used to print content on console after applying above flags and any of these does not affects file
